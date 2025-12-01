@@ -3,7 +3,7 @@
 Welcome to the Python Lab File Repository!
 This repository contains all the essential Python lab programs, explanations, and PDF files needed for academic purposes, practical exams, and quick revision.
 
-
+----
 
 📁 Repository Contents
 
@@ -13,7 +13,7 @@ Python Lab file.pdf	Earlier version of the lab file with foundational programs.
 
 
 
-
+----
 
 
 🚀 About This Repository
@@ -32,7 +32,7 @@ This repo is created for:
 All files are well-structured and follow standard Python programming guidelines.
 
 
-
+----
 
 🧪 Topics Covered in the Lab File
 
@@ -60,7 +60,7 @@ And many more beginner-friendly Python concepts!
 
 
 
-
+----
 
 📬 How to Use
 
@@ -70,7 +70,7 @@ And many more beginner-friendly Python concepts!
 2. Download or open directly in browser
 
 
-
+----
 
 
 👨‍💻 Author
@@ -79,7 +79,7 @@ Ayush Das
 Passionate about Python, coding, and sharing knowledge.
 
 
-
+----
 
 
 📌 License
