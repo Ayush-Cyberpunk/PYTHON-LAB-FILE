@@ -15,6 +15,7 @@ Python Lab file.pdf	Earlier version of the lab file with foundational programs.
 
 
 
+
 🚀 About This Repository
 
 This repo is created for:
@@ -29,6 +30,7 @@ This repo is created for:
 
 
 All files are well-structured and follow standard Python programming guidelines.
+
 
 
 
@@ -59,6 +61,7 @@ And many more beginner-friendly Python concepts!
 
 
 
+
 📬 How to Use
 
 1. Click on the PDF you want to view
@@ -69,10 +72,13 @@ And many more beginner-friendly Python concepts!
 
 
 
+
 👨‍💻 Author
 
 Ayush Das
 Passionate about Python, coding, and sharing knowledge.
+
+
 
 
 
